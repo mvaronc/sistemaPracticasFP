@@ -21,3 +21,6 @@ En esta aplicación también podrá entrar y supervisar las acciones el profesor
 ### Usuario Alumno
 * CRUD acciones en la empresa
 
+## Modelo entidad-relación aproximado
+![Modelo E-R](ER-SistemaFCT.png)
+
